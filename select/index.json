@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "マリア (Cover)",
+  "base_artist": "宮下遊",
+  "createdAt": "2026-03-31T07:56:21.309875Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マリア",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/01_マリア_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マリア",
+      "artist": "Okui, Masami",
+      "has_synced": false,
+      "path": "select/02_マリア_Okui,_Masami.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マリア",
+      "artist": "長渕剛",
+      "has_synced": false,
+      "path": "select/03_マリア_長渕剛.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アヴェ・マリア",
+      "artist": "本田美奈子",
+      "has_synced": false,
+      "path": "select/04_アヴェ・マリア_本田美奈子.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ミア・マリア",
+      "artist": "Original Love",
+      "has_synced": true,
+      "path": "select/05_ミア・マリア_Original_Love.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アベ・マリア",
+      "artist": "Ikd-sj",
+      "has_synced": true,
+      "path": "select/06_アベ・マリア_Ikd-sj.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マリア(Cover)",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_マリア(Cover)_宮下_遊.txt"
+    }
+  ]
+}
